@@ -19,3 +19,17 @@ The project leverages **Google Fonts (Poppins)** for typography and **Font Aweso
 #OUTPUT
 
 ![Image](https://github.com/user-attachments/assets/fd773dc8-7fca-4853-8dab-b7d5a8ac96a7)
+ 
+![Image](https://github.com/user-attachments/assets/e2299adc-ebb2-41be-b4fd-730f28f235f7)
+
+![Image](https://github.com/user-attachments/assets/cd5f3dd0-7673-481b-9daa-7b008412cfa9)
+
+![Image](https://github.com/user-attachments/assets/7a15b8d0-b2c5-4ff8-8141-e4948ebb8ba2)
+
+![Image](https://github.com/user-attachments/assets/95aab0a9-1b8d-41fc-8c93-ec34ef9e2c9b)
+
+![Image](https://github.com/user-attachments/assets/9be4bc6c-1cd2-4e99-9c8f-d991a310c7f6)
+
+![Image](https://github.com/user-attachments/assets/67bbeac5-a629-4b38-bf49-2cef6d0eb247)
+
+![Image](https://github.com/user-attachments/assets/2af07250-bfd4-4b1a-adaf-78c0032128d9)
