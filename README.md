@@ -16,4 +16,6 @@ TASK DESCRIPTION:The **Interactive Quiz Application** is a dynamic web-based pro
 
 The project leverages **Google Fonts (Poppins)** for typography and **Font Awesome icons** for intuitive navigation, while CSS Flexbox ensures a clean, adaptable layout. JavaScript dynamically renders questions, manages user inputs, and controls UI states, such as disabling buttons when no answer is selected. The quiz is easily customizable—new questions can be added by expanding the `quizQuestions` array, and styling adjustments are straightforward via CSS variables. Future enhancements could include a timer, multiple quiz categories, or local storage for high scores, making this application a scalable foundation for more advanced features.  
 
-   
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/fd773dc8-7fca-4853-8dab-b7d5a8ac96a7)
